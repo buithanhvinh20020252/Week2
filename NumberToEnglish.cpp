@@ -74,6 +74,7 @@ int cal(int number)
 			}
 	else if(b==0)
 	{
+		cout << " and";
 		switch (c)
 		{
 			case 0:
@@ -109,6 +110,7 @@ int cal(int number)
 	}
 	else
 	{	
+		cout << " and";
 		switch (b)
 			{
 				case 2:
